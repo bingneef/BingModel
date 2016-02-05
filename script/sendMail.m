@@ -1,6 +1,6 @@
 %% send mail
-mail = 'bingsteup@gmail.com';
-password = xxx
+mail = 'info@example.com';
+password = 'bogus'
 setpref('Internet','SMTP_Server','smtp.gmail.com');
 setpref('Internet','E_mail',mail);
 setpref('Internet','SMTP_Username',mail);
